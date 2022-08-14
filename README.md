@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pravigya
 - 👀 I’m interested in ... AI and Blockchain
 - 🌱 I’m currently learning ... Reactjs
-- 💞️ I’m looking to collaborate on ... Web Development
+- 🤝 I’m looking to collaborate on ... Web Development and DApps
 - 📫 How to reach me ... pravigyajain5@gmail.com
 
 <!---
