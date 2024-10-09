@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @pravigya
-- 👀 I’m interested in ... Web and Blockchain Development
-- 🌱 I’m currently learning ... NextJS and Backend Development
-- 🤝 I’m looking to collaborate on ... Web Development and DApps
+- 👀 I’m interested in ... Backend and Blockchain Development
+- 🌱 I’m currently learning ... FIX and Driver Development
 - 📫 How to reach me ... pravigyajain5@gmail.com
 
 <!---
